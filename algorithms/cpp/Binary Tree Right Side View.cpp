@@ -46,7 +46,6 @@ public:
 
         while (!queue.empty()) {
             int n = queue.size();
-            vector<int> level;
             for (int i = 0; i < n; ++ i) {
                 TreeNode* node = queue.front();
                 queue.pop();
