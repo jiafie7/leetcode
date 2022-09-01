@@ -19,10 +19,12 @@
 
 class Solution {
     public int countOrders(int n) {
-        final int mod = 1e9 + 7;
+        final int MOD = 1000000007;
         long res = 1;
-        for (int i = 1; i <= n; i ++ )
-            res = res * i * (2 * i - 1) % mod;
+        for (int i = 1; i <= n * 2; i ++ ) {
+            if (i % 2 == 1) res = res * i % MOD;
+            else res = i / 2 * res % MOD;
+        }
         return (int)res;
     }
 }
