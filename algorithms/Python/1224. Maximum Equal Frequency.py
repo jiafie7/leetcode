@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/maximum-equal-frequency/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-19
 
 /****************************************************************************************************************************

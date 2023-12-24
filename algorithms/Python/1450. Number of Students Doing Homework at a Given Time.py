@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-21
 
 /************************************************************************************************************************

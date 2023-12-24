@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-26
 
 /************************************************************************************************************************

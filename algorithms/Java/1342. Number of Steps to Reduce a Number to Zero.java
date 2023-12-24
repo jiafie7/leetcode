@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-25
 
 /***************************************************************************************************************************

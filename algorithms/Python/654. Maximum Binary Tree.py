@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/maximum-binary-tree/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-22
 
 /*************************************************************************************************************************

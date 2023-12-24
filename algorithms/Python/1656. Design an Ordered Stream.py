@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/design-an-ordered-stream/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-17
 
 /************************************************************************************************************************

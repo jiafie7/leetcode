@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/number-of-days-between-two-dates/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-31
 
 /************************************************************************************************************************

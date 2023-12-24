@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/deepest-leaves-sum/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-18
 
 /**************************************************************************************************************************

@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/angle-between-hands-of-a-clock/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-27
 
 /************************************************************************************************************************

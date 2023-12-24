@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-15
 
 /********************************************************************************************************************************

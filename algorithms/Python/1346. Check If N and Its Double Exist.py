@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/check-if-n-and-its-double-exist/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-31
 
 /*************************************************************************************************************************

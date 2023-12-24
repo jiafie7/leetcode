@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/jump-game-iv/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-30
 
 /*************************************************************************************************************************

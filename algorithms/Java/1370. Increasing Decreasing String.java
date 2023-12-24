@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/increasing-decreasing-string/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-09-05
 
 /**********************************************************************************************************************

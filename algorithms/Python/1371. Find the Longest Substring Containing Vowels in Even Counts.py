@@ -1,5 +1,5 @@
 // Source : https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-09-08
   
 /*************************************************************************************************************

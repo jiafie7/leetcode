@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/sort-the-matrix-diagonally/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-28
 
 /**************************************************************************************************************
