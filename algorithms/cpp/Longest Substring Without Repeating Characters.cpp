@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
-// Author : Hang Zhang 
+// Author : Garfield Zhang 
 // Date   : 2022-01-05
 
 /*****************************************************************************************************************

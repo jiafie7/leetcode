@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/house-robber/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-18
 
 /**********************************************************************************************************

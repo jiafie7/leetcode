@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
-// Author : Hang Zhang 
+// Author : Garfield Zhang 
 // Date   : 2021-04-17
 
 /***************************************************************************************************************

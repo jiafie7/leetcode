@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-05-01
 
 /***************************************************************************************************************

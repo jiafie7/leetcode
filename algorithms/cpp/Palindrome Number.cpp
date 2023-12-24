@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/palindrome-number/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-04-25
 
 /***************************************************************************************************************

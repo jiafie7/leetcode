@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-17
 
 /***************************************************************************************************

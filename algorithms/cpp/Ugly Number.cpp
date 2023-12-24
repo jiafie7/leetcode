@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/ugly-number/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-16
 
 /**************************************************************************************************

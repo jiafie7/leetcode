@@ -1,5 +1,5 @@
 // Source : https://leetcode.cn/problems/design-circular-deque/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-08-16
 
 /**************************************************************************************************************************

@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/implement-trie-prefix-tree/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-18
 
 /**********************************************************************************************************

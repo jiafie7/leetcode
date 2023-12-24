@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-17
 
 /*************************************************************************************************************************

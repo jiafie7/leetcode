@@ -1,5 +1,5 @@
 //Source : https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/
-//Author : Hang Zhang
+//Author : Garfield Zhang
 //Date   : 2022-08-13
 
 /********************************************************************************************************************************

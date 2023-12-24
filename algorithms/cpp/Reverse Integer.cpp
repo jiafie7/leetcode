@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/reverse-integer/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-04-23
 
 /******************************************************************************************************************

@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-18
 
 /********************************************************************************************************************

@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/rabbits-in-forest/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2021-04-17
 
 /*****************************************************************************************************

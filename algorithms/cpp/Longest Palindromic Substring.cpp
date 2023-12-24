@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/longest-palindromic-substring/
-// Author : Hang Zhang
+// Author : Garfield Zhang
 // Date   : 2022-04-23
 
 /****************************************************************************************************************
